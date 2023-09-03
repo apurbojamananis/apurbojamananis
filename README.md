@@ -3,9 +3,7 @@
 ### Hi there 👋, my name is Md. Anishur Rahman
 #### Passionate tech lover & problem solver always ready to face new challenges.
 
-I am passionate about building amazing websites and web applications. I love to do creative ideas into functional and visually appealing digital experiences.
-
-Key Qualifications:
+####Key Qualifications:
 
 Front End:
 • HTML5 | CSS3 | JavaScript | React.js | jQuery
