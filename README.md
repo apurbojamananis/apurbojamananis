@@ -23,7 +23,8 @@
 📧 If you're looking to collaborate on an exciting front-end development project or simply want to connect and discuss industry trends, I would be delighted to hear from you. Feel free to reach out to me or connect with me directly on LinkedIn. Let's create exceptional web experiences together!
 
 ##### Skills: 
-- REACT / JS / HTML5 / CSS3 / Node / Redux 
+###### REACT / JS / HTML5 / CSS3 / Node / Redux 
+
 
 - 🔭 I’m currently working on Webtricker 
 - 🌱 I’m currently learning Next.js 
