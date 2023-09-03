@@ -3,29 +3,14 @@
 ### Hi there 👋, my name is Md. Anishur Rahman
 #### Passionate tech lover & problem solver always ready to face new challenges.
 
-#### Key Qualifications:
-
-##### Front End:
- - HTML5 | CSS3 | JavaScript | React.js | jQuery
- - Bootstrap | Tailwind CSS | CSS preprocessors (e.g., Sass) | UI component libraries (e.g., Material-UI)
-
-##### Backend & Server Side: 
-- Nodejs | Express.js| MongoDB | RESTful APIs
-- Authentication and authorization mechanisms (e.g., JWT, OAuth)
-
-##### Tools: 
-- Git (proficient), | GitHub (familiar) | npm | Yarn
-- Chrome DevTools | Firefox Developer Tools
-- Figma 
-
 💡 Throughout my career, I have worked on diverse projects, collaborating with cross-functional teams to bring innovative ideas to life. Some notable projects included in the projects section.
 
-📧 If you're looking to collaborate on an exciting front-end development project or simply want to connect and discuss industry trends, I would be delighted to hear from you. Feel free to reach out to me or connect with me directly on LinkedIn. Let's create exceptional web experiences together!
+📧 If you're looking to collaborate on an exciting front-end development project or simply want to connect and discuss industry trends, I would be delighted to hear from you. Feel free to reach out to me or connect with me directly. Let's create exceptional web experiences together!
 
 ##### Skills: REACT / JS / HTML5 / CSS3 / Node / Redux 
 
 
-- 🔭 I’m currently working on Webtricker 
+- 🔭 I’m currently working at Webtricker 
 - 🌱 I’m currently learning Next.js 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: apurbojaman.anis@gmai.com 
