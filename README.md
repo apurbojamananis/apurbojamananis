@@ -37,7 +37,6 @@ Skills: REACT / JS / HTML5 / CSS3 / Node / Redux
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apurbojamananis)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/apurbojamananis)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=apurbojamananis)  
 
