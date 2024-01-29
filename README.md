@@ -1,5 +1,5 @@
 
-![Passionate tech lover & problem solver always ready to face new challenges.](https://media.licdn.com/dms/image/D5616AQEfXGoVTidNOQ/profile-displaybackgroundimage-shrink_350_1400/0/1685584903040?e=1699488000&v=beta&t=9aRqGFWouyRyr2v2K_aGapnZuJJ6tJdnaDWsm4TUQbs)
+![Passionate tech lover & problem solver always ready to face new challenges.](https://i.ibb.co/dfsCPq9/1685584903040.jpg)
 ### Hi there 👋, my name is Md. Anishur Rahman
 #### Passionate tech lover & problem solver always ready to face new challenges.
 
