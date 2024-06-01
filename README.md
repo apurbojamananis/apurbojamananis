@@ -7,7 +7,7 @@
 
 📧 If you're looking to collaborate on an exciting front-end development project or simply want to connect and discuss industry trends, I would be delighted to hear from you. Feel free to reach out to me or connect with me directly. Let's create exceptional web experiences together!
 
-##### Skills: REACT / JS / HTML5 / CSS3 / Node / Redux 
+##### Skills: REACT / TypeScript / JavaScript / HTML5 / CSS3 / Node / Express / Redux 
 
 
 - 🔭 I’m currently working at ODIN 
