@@ -10,7 +10,7 @@
 ##### Skills: REACT / JS / HTML5 / CSS3 / Node / Redux 
 
 
-- 🔭 I’m currently working at Webtricker 
+- 🔭 I’m currently working at ODIN 
 - 🌱 I’m currently learning Next.js 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: apurbojaman.anis@gmai.com 
